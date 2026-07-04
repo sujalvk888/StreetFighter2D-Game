@@ -1,0 +1,4810 @@
+fileFormatVersion: 2
+guid: 6770b7fe8fca0fc4393b5f3e472aa6e3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6784512287385803251
+    second: MidBuildings_0
+  - first:
+      213: 3485073435248459079
+    second: MidBuildings_1
+  - first:
+      213: -7349495680187835438
+    second: MidBuildings_2
+  - first:
+      213: -901801916485884349
+    second: MidBuildings_3
+  - first:
+      213: 8230187941814400041
+    second: MidBuildings_4
+  - first:
+      213: 3586459395586041600
+    second: MidBuildings_5
+  - first:
+      213: 6788201291440171753
+    second: MidBuildings_6
+  - first:
+      213: 4419903348613103609
+    second: MidBuildings_7
+  - first:
+      213: 6562765284460611152
+    second: MidBuildings_8
+  - first:
+      213: 7574661530678657726
+    second: MidBuildings_9
+  - first:
+      213: -6176002972613543776
+    second: MidBuildings_10
+  - first:
+      213: -5020187434238673717
+    second: MidBuildings_11
+  - first:
+      213: -2921457814827212025
+    second: MidBuildings_12
+  - first:
+      213: 7703688735397776316
+    second: MidBuildings_13
+  - first:
+      213: -4662764013541536177
+    second: MidBuildings_14
+  - first:
+      213: 5025161438767865733
+    second: MidBuildings_15
+  - first:
+      213: 6454582224968474097
+    second: MidBuildings_16
+  - first:
+      213: 8097495256802967849
+    second: MidBuildings_17
+  - first:
+      213: 3666292894537793970
+    second: MidBuildings_18
+  - first:
+      213: -5511974015822140368
+    second: MidBuildings_19
+  - first:
+      213: -470477765153928362
+    second: MidBuildings_20
+  - first:
+      213: -9207551044605434390
+    second: MidBuildings_21
+  - first:
+      213: 8896764608723474570
+    second: MidBuildings_22
+  - first:
+      213: -5802027451681002977
+    second: MidBuildings_23
+  - first:
+      213: 6490915104535158084
+    second: MidBuildings_24
+  - first:
+      213: -5177687309391898540
+    second: MidBuildings_25
+  - first:
+      213: -3077775556385575880
+    second: MidBuildings_26
+  - first:
+      213: -2137986292208072271
+    second: MidBuildings_27
+  - first:
+      213: 152063399573971995
+    second: MidBuildings_28
+  - first:
+      213: 6019280761704019163
+    second: MidBuildings_29
+  - first:
+      213: -2510230612372730438
+    second: MidBuildings_30
+  - first:
+      213: 3910383387811044148
+    second: MidBuildings_31
+  - first:
+      213: -3415871445686155001
+    second: MidBuildings_32
+  - first:
+      213: 1138055991584400761
+    second: MidBuildings_33
+  - first:
+      213: -2870768548879742586
+    second: MidBuildings_34
+  - first:
+      213: 4064114830173668498
+    second: MidBuildings_35
+  - first:
+      213: -3656411192452691651
+    second: MidBuildings_36
+  - first:
+      213: 8443482713505747028
+    second: MidBuildings_37
+  - first:
+      213: 4106678766221121257
+    second: MidBuildings_38
+  - first:
+      213: -1758627969997582845
+    second: MidBuildings_39
+  - first:
+      213: -4841763444939774996
+    second: MidBuildings_40
+  - first:
+      213: 7080771689829988839
+    second: MidBuildings_41
+  - first:
+      213: 1734138751094752074
+    second: MidBuildings_42
+  - first:
+      213: 8085850182155332827
+    second: MidBuildings_43
+  - first:
+      213: 3595060002143592937
+    second: MidBuildings_44
+  - first:
+      213: -6833441624536582559
+    second: MidBuildings_45
+  - first:
+      213: 6944361951615110073
+    second: MidBuildings_46
+  - first:
+      213: 3429334580718994949
+    second: MidBuildings_47
+  - first:
+      213: 7484225480299411523
+    second: MidBuildings_48
+  - first:
+      213: 6383872297462419056
+    second: MidBuildings_49
+  - first:
+      213: -2459106002405816551
+    second: MidBuildings_50
+  - first:
+      213: 4594322102700638221
+    second: MidBuildings_51
+  - first:
+      213: -7339804438989288242
+    second: MidBuildings_52
+  - first:
+      213: -2962390378522206854
+    second: MidBuildings_53
+  - first:
+      213: -8902670533409731855
+    second: MidBuildings_54
+  - first:
+      213: -814070057255894035
+    second: MidBuildings_55
+  - first:
+      213: -4960196849115372385
+    second: MidBuildings_56
+  - first:
+      213: -3901630411900041844
+    second: MidBuildings_57
+  - first:
+      213: -901612376170426270
+    second: MidBuildings_58
+  - first:
+      213: -8100242583581154092
+    second: MidBuildings_59
+  - first:
+      213: -3165466216678462706
+    second: MidBuildings_60
+  - first:
+      213: 5271149443202014880
+    second: MidBuildings_61
+  - first:
+      213: -3445360130492676642
+    second: MidBuildings_62
+  - first:
+      213: -8596904659878527097
+    second: MidBuildings_63
+  - first:
+      213: -818720276650317098
+    second: MidBuildings_64
+  - first:
+      213: 7976989743717410264
+    second: MidBuildings_65
+  - first:
+      213: -6760201582684530630
+    second: MidBuildings_66
+  - first:
+      213: -1491421707372903270
+    second: MidBuildings_67
+  - first:
+      213: 4180354515358938730
+    second: MidBuildings_68
+  - first:
+      213: -4590861517103868378
+    second: MidBuildings_69
+  - first:
+      213: 7951293225582728341
+    second: MidBuildings_70
+  - first:
+      213: -6127782102799784970
+    second: MidBuildings_71
+  - first:
+      213: 309268342928826703
+    second: MidBuildings_72
+  - first:
+      213: 1361498481270814242
+    second: MidBuildings_73
+  - first:
+      213: 3764627411612412863
+    second: MidBuildings_74
+  - first:
+      213: -4329599500216017484
+    second: MidBuildings_75
+  - first:
+      213: -7935457939684808566
+    second: MidBuildings_76
+  - first:
+      213: 5391931546208516636
+    second: MidBuildings_77
+  - first:
+      213: 7491945683593022244
+    second: MidBuildings_78
+  - first:
+      213: 4206342427578205170
+    second: MidBuildings_79
+  - first:
+      213: 2859560396366589475
+    second: MidBuildings_80
+  - first:
+      213: 4813687102026929405
+    second: MidBuildings_81
+  - first:
+      213: 6534493708033027677
+    second: MidBuildings_82
+  - first:
+      213: -1545240221016786515
+    second: MidBuildings_83
+  - first:
+      213: -2218920040990425278
+    second: MidBuildings_84
+  - first:
+      213: 7758204998271586689
+    second: MidBuildings_85
+  - first:
+      213: 5364164778545725370
+    second: MidBuildings_86
+  - first:
+      213: 1284710723082472138
+    second: MidBuildings_87
+  - first:
+      213: -2984738641442415479
+    second: MidBuildings_88
+  - first:
+      213: 4275251003355727348
+    second: MidBuildings_89
+  - first:
+      213: 4494509492612105584
+    second: MidBuildings_90
+  - first:
+      213: 1965778219734480384
+    second: MidBuildings_91
+  - first:
+      213: 4999248573616455855
+    second: MidBuildings_92
+  - first:
+      213: -3306967950608993314
+    second: MidBuildings_93
+  - first:
+      213: -476355604451204546
+    second: MidBuildings_94
+  - first:
+      213: 7298202456838801331
+    second: MidBuildings_95
+  - first:
+      213: 490422177097567555
+    second: MidBuildings_96
+  - first:
+      213: -756095505951284009
+    second: MidBuildings_97
+  - first:
+      213: 1348281397672096852
+    second: MidBuildings_98
+  - first:
+      213: 882697988952975836
+    second: MidBuildings_99
+  - first:
+      213: 9206167522345701140
+    second: MidBuildings_100
+  - first:
+      213: -6962902087685350086
+    second: MidBuildings_101
+  - first:
+      213: 3346564200570630688
+    second: MidBuildings_102
+  - first:
+      213: 4109814222662833585
+    second: MidBuildings_103
+  - first:
+      213: 2910214812815402216
+    second: MidBuildings_104
+  - first:
+      213: 367713911837542288
+    second: MidBuildings_105
+  - first:
+      213: 608122730169771724
+    second: MidBuildings_106
+  - first:
+      213: -4852920777537932346
+    second: MidBuildings_107
+  - first:
+      213: 4537860007407859976
+    second: MidBuildings_108
+  - first:
+      213: 7467249845629829131
+    second: MidBuildings_109
+  - first:
+      213: 9037606072365982017
+    second: MidBuildings_110
+  - first:
+      213: 5486196227672717821
+    second: MidBuildings_111
+  - first:
+      213: 5979758685828654544
+    second: MidBuildings_112
+  - first:
+      213: 3270911870497757579
+    second: MidBuildings_113
+  - first:
+      213: 7359027669422519730
+    second: MidBuildings_114
+  - first:
+      213: -6701872944590498797
+    second: MidBuildings_115
+  - first:
+      213: -7173184224002720407
+    second: MidBuildings_116
+  - first:
+      213: 675081056581039066
+    second: MidBuildings_117
+  - first:
+      213: 5781841726512371898
+    second: MidBuildings_118
+  - first:
+      213: 8648599315086865326
+    second: MidBuildings_119
+  - first:
+      213: 2745944921200013330
+    second: MidBuildings_120
+  - first:
+      213: -8011789659259187302
+    second: MidBuildings_121
+  - first:
+      213: -3983256636607027808
+    second: MidBuildings_122
+  - first:
+      213: -8086248605268772250
+    second: MidBuildings_123
+  - first:
+      213: -8768703316034920208
+    second: MidBuildings_124
+  - first:
+      213: 3076553188617622187
+    second: MidBuildings_125
+  - first:
+      213: 2070976145634795493
+    second: MidBuildings_126
+  - first:
+      213: 8673663676666141113
+    second: MidBuildings_127
+  - first:
+      213: -3588311189449998882
+    second: MidBuildings_128
+  - first:
+      213: -7326633668154224895
+    second: MidBuildings_129
+  - first:
+      213: 6682027780189715038
+    second: MidBuildings_130
+  - first:
+      213: -2146856264260401203
+    second: MidBuildings_131
+  - first:
+      213: 7330288691815661355
+    second: MidBuildings_132
+  - first:
+      213: -7629818090008833447
+    second: MidBuildings_133
+  - first:
+      213: -7259422579902304199
+    second: MidBuildings_134
+  - first:
+      213: 5512976077025469332
+    second: MidBuildings_135
+  - first:
+      213: 1302100594009885295
+    second: MidBuildings_136
+  - first:
+      213: -5861103610751610264
+    second: MidBuildings_137
+  - first:
+      213: 2235170456274908400
+    second: MidBuildings_138
+  - first:
+      213: -5248849637893897965
+    second: MidBuildings_139
+  - first:
+      213: -3357878823934696433
+    second: MidBuildings_140
+  - first:
+      213: -4190866766335611712
+    second: MidBuildings_141
+  - first:
+      213: 1585690757642860273
+    second: MidBuildings_142
+  - first:
+      213: -5331513047132560406
+    second: MidBuildings_143
+  - first:
+      213: -8159111691451770618
+    second: MidBuildings_144
+  - first:
+      213: 4563000691390728693
+    second: MidBuildings_145
+  - first:
+      213: 3460174706188006944
+    second: MidBuildings_146
+  - first:
+      213: -2381510628344150843
+    second: MidBuildings_147
+  - first:
+      213: 1021119764918321726
+    second: MidBuildings_148
+  - first:
+      213: -979146749091641164
+    second: MidBuildings_149
+  - first:
+      213: 4959826176282945258
+    second: MidBuildings_150
+  - first:
+      213: -2673357739371149095
+    second: MidBuildings_151
+  - first:
+      213: 7343010996215486440
+    second: MidBuildings_152
+  - first:
+      213: 2839290210324688344
+    second: MidBuildings_153
+  - first:
+      213: -1392675286295004043
+    second: MidBuildings_154
+  - first:
+      213: -6376845366086856148
+    second: MidBuildings_155
+  - first:
+      213: 7533362248984601951
+    second: MidBuildings_156
+  - first:
+      213: -5914862784604599992
+    second: MidBuildings_157
+  - first:
+      213: -6127822455120872434
+    second: MidBuildings_158
+  - first:
+      213: -2958712240566152416
+    second: MidBuildings_159
+  - first:
+      213: 7435056227466571059
+    second: MidBuildings_160
+  - first:
+      213: 7611905275601912831
+    second: MidBuildings_161
+  - first:
+      213: -1621441662928955870
+    second: MidBuildings_162
+  - first:
+      213: 557613857769534609
+    second: MidBuildings_163
+  - first:
+      213: -5187383596354516983
+    second: MidBuildings_164
+  - first:
+      213: -1916343982998076299
+    second: MidBuildings_165
+  - first:
+      213: -3284408026173601725
+    second: MidBuildings_166
+  - first:
+      213: -7882147559373419698
+    second: MidBuildings_167
+  - first:
+      213: -4264397876181868457
+    second: MidBuildings_168
+  - first:
+      213: 9084706386780582117
+    second: MidBuildings_169
+  - first:
+      213: -7007015625418996034
+    second: MidBuildings_170
+  - first:
+      213: -5528803588435475647
+    second: MidBuildings_171
+  - first:
+      213: 5022098698128065405
+    second: MidBuildings_172
+  - first:
+      213: 2188535457919074883
+    second: MidBuildings_173
+  - first:
+      213: -6000995755504003593
+    second: MidBuildings_174
+  - first:
+      213: 7466931664973090838
+    second: MidBuildings_175
+  - first:
+      213: 1780975300997530612
+    second: MidBuildings_176
+  - first:
+      213: 8771264077109562122
+    second: MidBuildings_177
+  - first:
+      213: 4654084731315298179
+    second: MidBuildings_178
+  - first:
+      213: 1287215350725010826
+    second: MidBuildings_179
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MidBuildings_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 694
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f957efbafd672e50800000000000000
+      internalID: 6784512287385803251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 680
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d722c13d77d5030800000000000000
+      internalID: 3485073435248459079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_2
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 686
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dbd2204e98510a90800000000000000
+      internalID: -7349495680187835438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_3
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 685
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 346a7165fe72c73f0800000000000000
+      internalID: -901801916485884349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_4
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 673
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924fc82e350873270800000000000000
+      internalID: 8230187941814400041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_5
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 695
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 007a44381d9a5c130800000000000000
+      internalID: 3586459395586041600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_6
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 688
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eaa320fb19843e50800000000000000
+      internalID: 6788201291440171753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_7
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 688
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ffb4ab8da6a65d30800000000000000
+      internalID: 4419903348613103609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_8
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 670
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0564a845140a31b50800000000000000
+      internalID: 6562765284460611152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_9
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 691
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb20be5a78a9e1960800000000000000
+      internalID: 7574661530678657726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_10
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 687
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a8fc9da40e6a4aa0800000000000000
+      internalID: -6176002972613543776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_11
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 625
+        width: 59
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bccf25c6026b45ab0800000000000000
+      internalID: -5020187434238673717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_12
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 685
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7036fe09895e477d0800000000000000
+      internalID: -2921457814827212025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_13
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 680
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb0095c61009ea60800000000000000
+      internalID: 7703688735397776316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_14
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 672
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ec16585d88a4fb0800000000000000
+      internalID: -4662764013541536177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_15
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 692
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58fdfb044b5fcb540800000000000000
+      internalID: 5025161438767865733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_16
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 684
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fddbc4f558439950800000000000000
+      internalID: 6454582224968474097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_17
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 685
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921c620a805106070800000000000000
+      internalID: 8097495256802967849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_18
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 665
+        width: 58
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b1c67576f941e230800000000000000
+      internalID: 3666292894537793970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_19
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 679
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03cecb716d88183b0800000000000000
+      internalID: -5511974015822140368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_20
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 536
+        width: 146
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65bc74d17f68879f0800000000000000
+      internalID: -470477765153928362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_21
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 680
+        width: 42
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae5240fcb15383080800000000000000
+      internalID: -9207551044605434390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_22
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 688
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a88da394648a77b70800000000000000
+      internalID: 8896764608723474570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_23
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 691
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a2d7de5ce0b7fa0800000000000000
+      internalID: -5802027451681002977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_24
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 678
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d1901b5ec541a50800000000000000
+      internalID: 6490915104535158084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_25
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 693
+        width: 27
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 458d5ad13d82528b0800000000000000
+      internalID: -5177687309391898540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_26
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 614
+        width: 131
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ce14f207b8945d0800000000000000
+      internalID: -3077775556385575880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_27
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 692
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b988467bc85452e0800000000000000
+      internalID: -2137986292208072271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_28
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 667
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14e1f23bdc3c1200800000000000000
+      internalID: 152063399573971995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_29
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 688
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd4f5b416f7c88350800000000000000
+      internalID: 6019280761704019163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_30
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 691
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd463dce8ed92dd0800000000000000
+      internalID: -2510230612372730438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_31
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 686
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43bd01e19f8744630800000000000000
+      internalID: 3910383387811044148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_32
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 679
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7090a79a4036890d0800000000000000
+      internalID: -3415871445686155001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_33
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 664
+        width: 67
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 975a4e805ef2bcf00800000000000000
+      internalID: 1138055991584400761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_34
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 646
+        width: 78
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 689c8abf63bf828d0800000000000000
+      internalID: -2870768548879742586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_35
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 693
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29406eac7e2a66830800000000000000
+      internalID: 4064114830173668498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_36
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 688
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3948199461d14dc0800000000000000
+      internalID: -3656411192452691651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_37
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 684
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45059addac64d2570800000000000000
+      internalID: 8443482713505747028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_38
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 682
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e6df3b649addf830800000000000000
+      internalID: 4106678766221121257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_39
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 692
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e4a3ccd291897e0800000000000000
+      internalID: -1758627969997582845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_40
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 666
+        width: 62
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3a4e1bcc99eccb0800000000000000
+      internalID: -4841763444939774996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_41
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 691
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e975fb1654f34260800000000000000
+      internalID: 7080771689829988839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_42
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 692
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a430e3a9106e01810800000000000000
+      internalID: 1734138751094752074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_43
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 673
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc656666e5b63070800000000000000
+      internalID: 8085850182155332827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_44
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 691
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e1ebf5460834e130800000000000000
+      internalID: 3595060002143592937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_45
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 684
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 166f0203c0dba21a0800000000000000
+      internalID: -6833441624536582559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_46
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 673
+        width: 62
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bbc1c5f6645f5060800000000000000
+      internalID: 6944361951615110073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_47
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 665
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50608bbb1a1779f20800000000000000
+      internalID: 3429334580718994949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_48
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 691
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3487c24db6f4dd760800000000000000
+      internalID: 7484225480299411523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_49
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 674
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07e44b50802189850800000000000000
+      internalID: 6383872297462419056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_50
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 678
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9170295ae108fddd0800000000000000
+      internalID: -2459106002405816551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_51
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 694
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0082335c9f42cf30800000000000000
+      internalID: 4594322102700638221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_52
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 686
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc453d20c6c32a90800000000000000
+      internalID: -7339804438989288242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_53
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 678
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d162a65a973e6d0800000000000000
+      internalID: -2962390378522206854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_54
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 691
+        width: 29
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa86c7715c537480800000000000000
+      internalID: -8902670533409731855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_55
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 686
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de30bf69897d3b4f0800000000000000
+      internalID: -814070057255894035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_56
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 688
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f946778fe37d92bb0800000000000000
+      internalID: -4960196849115372385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_57
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 683
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8546d5efcf9ad9c0800000000000000
+      internalID: -3901630411900041844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_58
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 686
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26014412254dc73f0800000000000000
+      internalID: -901612376170426270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_59
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 680
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d427238948269f80800000000000000
+      internalID: -8100242583581154092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_60
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 691
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b616e4f310214d0800000000000000
+      internalID: -3165466216678462706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_61
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 691
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aedd08ad72e62940800000000000000
+      internalID: 5271149443202014880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_62
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 680
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed5c0b2373f9f20d0800000000000000
+      internalID: -3445360130492676642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_63
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 687
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f3a0c92c8a1b880800000000000000
+      internalID: -8596904659878527097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_64
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 678
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da29d30f3253a4f0800000000000000
+      internalID: -818720276650317098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_65
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 691
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d5e53378e5f3be60800000000000000
+      internalID: 7976989743717410264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_66
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 692
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a381e064a70fe22a0800000000000000
+      internalID: -6760201582684530630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_67
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 684
+        width: 45
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a944bb9ebd76d4be0800000000000000
+      internalID: -1491421707372903270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_68
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 690
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a667b23884a930a30800000000000000
+      internalID: 4180354515358938730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_69
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 684
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 626530c06cbf940c0800000000000000
+      internalID: -4590861517103868378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_70
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 680
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59414d79f0ba85e60800000000000000
+      internalID: 7951293225582728341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_71
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 665
+        width: 82
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f36f95d4aeb5faa0800000000000000
+      internalID: -6127782102799784970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_72
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 692
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41eb885bedba4400800000000000000
+      internalID: 309268342928826703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_73
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 679
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 226716ab7a305e210800000000000000
+      internalID: 1361498481270814242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_74
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 680
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbb2bdc5fa4ae3430800000000000000
+      internalID: 3764627411612412863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_75
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 674
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd5ae9913c2ae3c0800000000000000
+      internalID: -4329599500216017484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_76
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 680
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a88a8073c079fd190800000000000000
+      internalID: -7935457939684808566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_77
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 680
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a3bf07c2df3da40800000000000000
+      internalID: 5391931546208516636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_78
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 679
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b451bb7ecb8f760800000000000000
+      internalID: 7491945683593022244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_79
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 664
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f30477d62eef5a30800000000000000
+      internalID: 4206342427578205170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_80
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 678
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ea437a7033fa720800000000000000
+      internalID: 2859560396366589475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_81
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 673
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4d1305ae6adc240800000000000000
+      internalID: 4813687102026929405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_82
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 678
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e655ef76f2faa50800000000000000
+      internalID: 6534493708033027677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_83
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 676
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9f5adb4343e8ae0800000000000000
+      internalID: -1545240221016786515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_84
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 684
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f35c3aaffc431e0800000000000000
+      internalID: -2218920040990425278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_85
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 678
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18153a8575eaaab60800000000000000
+      internalID: 7758204998271586689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_86
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 678
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf31ed0277517a40800000000000000
+      internalID: 5364164778545725370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_87
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 673
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca4770989534d110800000000000000
+      internalID: 1284710723082472138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_88
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 684
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c5179f4041496d0800000000000000
+      internalID: -2984738641442415479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_89
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 637
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f586a4e22eb45b30800000000000000
+      internalID: 4275251003355727348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_90
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 682
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07504c21294bf5e30800000000000000
+      internalID: 4494509492612105584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_91
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 679
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006397e20e8d74b10800000000000000
+      internalID: 1965778219734480384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_92
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 679
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0894e2716e06540800000000000000
+      internalID: 4999248573616455855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_93
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 675
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed379548b2a4b12d0800000000000000
+      internalID: -3306967950608993314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_94
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 680
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e326be10a15a369f0800000000000000
+      internalID: -476355604451204546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_95
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 674
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b782ca877c684560800000000000000
+      internalID: 7298202456838801331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_96
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 680
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34dcfd72f545ec600800000000000000
+      internalID: 490422177097567555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_97
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 678
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4218fa42fc185f0800000000000000
+      internalID: -756095505951284009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_98
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 683
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4543385a9ce06b210800000000000000
+      internalID: 1348281397672096852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_99
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 672
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd96e7be429ff3c00800000000000000
+      internalID: 882697988952975836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_100
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 680
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f4720d590e2cf70800000000000000
+      internalID: 9206167522345701140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_101
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 671
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d50b9317dce5f90800000000000000
+      internalID: -6962902087685350086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_102
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 682
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0223d09d862617e20800000000000000
+      internalID: 3346564200570630688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_103
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 671
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b59aa2c24ef80930800000000000000
+      internalID: 4109814222662833585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_104
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 667
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e421f904f8236820800000000000000
+      internalID: 2910214812815402216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_105
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 670
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 097cb06cad16a1500800000000000000
+      internalID: 367713911837542288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_106
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 549
+        width: 153
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc62c9fa66c707800800000000000000
+      internalID: 608122730169771724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_107
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 673
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c33db3c346f6acb0800000000000000
+      internalID: -4852920777537932346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_108
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 660
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8093ff552a7b9fe30800000000000000
+      internalID: 4537860007407859976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_109
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 665
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b004bd1eb2001a760800000000000000
+      internalID: 7467249845629829131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_110
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 673
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 141a94be6d60c6d70800000000000000
+      internalID: 9037606072365982017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_111
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 665
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df93586e662e22c40800000000000000
+      internalID: 5486196227672717821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_112
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 665
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5af57b7de5cf250800000000000000
+      internalID: 5979758685828654544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_113
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 666
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8990a4240d946d20800000000000000
+      internalID: 3270911870497757579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_114
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 673
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b53330fca4802660800000000000000
+      internalID: 7359027669422519730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_115
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 674
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 314d1ef901a2ef2a0800000000000000
+      internalID: -6701872944590498797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_116
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 594
+        width: 110
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96db1e314fab37c90800000000000000
+      internalID: -7173184224002720407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_117
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 671
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3bb1ce4ae5e5900800000000000000
+      internalID: 675081056581039066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_118
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 669
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab81d40ba6a3d3050800000000000000
+      internalID: 5781841726512371898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_119
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 666
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea3707c314ff50870800000000000000
+      internalID: 8648599315086865326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_120
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 669
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2103ae07b5e8b1620800000000000000
+      internalID: 2745944921200013330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_121
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 665
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f45b0d0c760d090800000000000000
+      internalID: -8011789659259187302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_122
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 675
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a522d57131a8b8c0800000000000000
+      internalID: -3983256636607027808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_123
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 665
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66af47d7cbfd7cf80800000000000000
+      internalID: -8086248605268772250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_124
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 669
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f0e2faeace4f4680800000000000000
+      internalID: -8768703316034920208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_125
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 672
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2162423dc12ba20800000000000000
+      internalID: 3076553188617622187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_126
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 673
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef9edaf4d59dbc10800000000000000
+      internalID: 2070976145634795493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_127
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 673
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b9d4eca82b0f5870800000000000000
+      internalID: 8673663676666141113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_128
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 674
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eddf5412cf1c33ec0800000000000000
+      internalID: -3588311189449998882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_129
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 661
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f004a3f71925a90800000000000000
+      internalID: -7326633668154224895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_130
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 670
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5aff79fcd45bbc50800000000000000
+      internalID: 6682027780189715038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_131
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 667
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc7cfe82a95d432e0800000000000000
+      internalID: -2146856264260401203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_132
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 671
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f3cb84aba6ab560800000000000000
+      internalID: 7330288691815661355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_133
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 665
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9529c242fd07d1690800000000000000
+      internalID: -7629818090008833447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_134
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 668
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 930397a20a9514b90800000000000000
+      internalID: -7259422579902304199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_135
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 672
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49364567886028c40800000000000000
+      internalID: 5512976077025469332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_136
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 676
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ac8c7679df11210800000000000000
+      internalID: 1302100594009885295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_137
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 670
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8621469c15d29aea0800000000000000
+      internalID: -5861103610751610264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_138
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 673
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f4b6b200bbe40f10800000000000000
+      internalID: 2235170456274908400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_139
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 673
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31185ed50175827b0800000000000000
+      internalID: -5248849637893897965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_140
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 672
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f04e09c100b6661d0800000000000000
+      internalID: -3357878823934696433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_141
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 671
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc639351ec07d5c0800000000000000
+      internalID: -4190866766335611712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_142
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1920
+        height: 670
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f63cecb751810610800000000000000
+      internalID: 1585690757642860273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_143
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 665
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae3ad469129a206b0800000000000000
+      internalID: -5331513047132560406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_144
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 660
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 609d74c352305ce80800000000000000
+      internalID: -8159111691451770618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_145
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 658
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9c438f3f8035f30800000000000000
+      internalID: 4563000691390728693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_146
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 660
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026b02fff82050030800000000000000
+      internalID: 3460174706188006944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_147
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 656
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c4cab883bc23fed0800000000000000
+      internalID: -2381510628344150843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_148
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 659
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32461d140fbb2e00800000000000000
+      internalID: 1021119764918321726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_149
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 665
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b80a6d283f5962f0800000000000000
+      internalID: -979146749091641164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_150
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 658
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6670901a7d4d440800000000000000
+      internalID: 4959826176282945258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_151
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 658
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8cd33dc4356ead0800000000000000
+      internalID: -2673357739371149095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_152
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 660
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e7163b989d97e560800000000000000
+      internalID: 7343010996215486440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_153
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 649
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dda5a0376f276720800000000000000
+      internalID: 2839290210324688344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_154
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 654
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57cbbe0b4393cace0800000000000000
+      internalID: -1392675286295004043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_155
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 665
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c221cceece4e087a0800000000000000
+      internalID: -6376845366086856148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_156
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 657
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f55a01f4d01eb8860800000000000000
+      internalID: 7533362248984601951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_157
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 665
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 849077cb2af2aeda0800000000000000
+      internalID: -5914862784604599992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_158
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 642
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0cbbd391f995faa0800000000000000
+      internalID: -6127822455120872434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_159
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 655
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0235474a4ea80f6d0800000000000000
+      internalID: -2958712240566152416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_160
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 660
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d633b0f30ae2760800000000000000
+      internalID: 7435056227466571059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_161
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 667
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff38c20c48be2a960800000000000000
+      internalID: 7611905275601912831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_162
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 665
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 226d919f56b7f79e0800000000000000
+      internalID: -1621441662928955870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_163
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 648
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 194303a69da0db700800000000000000
+      internalID: 557613857769534609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_164
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 659
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 908c9916a16b208b0800000000000000
+      internalID: -5187383596354516983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_165
+      rect:
+        serializedVersion: 2
+        x: 1901
+        y: 659
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57441f9fc47c765e0800000000000000
+      internalID: -1916343982998076299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_166
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 648
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3480b7e3d407b62d0800000000000000
+      internalID: -3284408026173601725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_167
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 654
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4bc5506e8cfc9290800000000000000
+      internalID: -7882147559373419698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_168
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 657
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 750ef31b9b0d1d4c0800000000000000
+      internalID: -4264397876181868457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_169
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 653
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e077c0735c531e70800000000000000
+      internalID: 9084706386780582117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_170
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 652
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb60a47d96412ce90800000000000000
+      internalID: -7007015625418996034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_171
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 658
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 143066edd6eb543b0800000000000000
+      internalID: -5528803588435475647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_172
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 652
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7300e0682412b540800000000000000
+      internalID: 5022098698128065405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_173
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 645
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3420d93576d3f5e10800000000000000
+      internalID: 2188535457919074883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_174
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 648
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f59e8ea72e28bca0800000000000000
+      internalID: -6000995755504003593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_175
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 658
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61056dca9cedf9760800000000000000
+      internalID: 7466931664973090838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_176
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 657
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3c3b9a99b47b810800000000000000
+      internalID: 1780975300997530612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_177
+      rect:
+        serializedVersion: 2
+        x: 1789
+        y: 653
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b824bb43ac9b970800000000000000
+      internalID: 8771264077109562122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_178
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 653
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f1e9c9761a69040800000000000000
+      internalID: 4654084731315298179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MidBuildings_179
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 654
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a85e461aa8b1dd110800000000000000
+      internalID: 1287215350725010826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MidBuildings_0: 6784512287385803251
+      MidBuildings_1: 3485073435248459079
+      MidBuildings_10: -6176002972613543776
+      MidBuildings_100: 9206167522345701140
+      MidBuildings_101: -6962902087685350086
+      MidBuildings_102: 3346564200570630688
+      MidBuildings_103: 4109814222662833585
+      MidBuildings_104: 2910214812815402216
+      MidBuildings_105: 367713911837542288
+      MidBuildings_106: 608122730169771724
+      MidBuildings_107: -4852920777537932346
+      MidBuildings_108: 4537860007407859976
+      MidBuildings_109: 7467249845629829131
+      MidBuildings_11: -5020187434238673717
+      MidBuildings_110: 9037606072365982017
+      MidBuildings_111: 5486196227672717821
+      MidBuildings_112: 5979758685828654544
+      MidBuildings_113: 3270911870497757579
+      MidBuildings_114: 7359027669422519730
+      MidBuildings_115: -6701872944590498797
+      MidBuildings_116: -7173184224002720407
+      MidBuildings_117: 675081056581039066
+      MidBuildings_118: 5781841726512371898
+      MidBuildings_119: 8648599315086865326
+      MidBuildings_12: -2921457814827212025
+      MidBuildings_120: 2745944921200013330
+      MidBuildings_121: -8011789659259187302
+      MidBuildings_122: -3983256636607027808
+      MidBuildings_123: -8086248605268772250
+      MidBuildings_124: -8768703316034920208
+      MidBuildings_125: 3076553188617622187
+      MidBuildings_126: 2070976145634795493
+      MidBuildings_127: 8673663676666141113
+      MidBuildings_128: -3588311189449998882
+      MidBuildings_129: -7326633668154224895
+      MidBuildings_13: 7703688735397776316
+      MidBuildings_130: 6682027780189715038
+      MidBuildings_131: -2146856264260401203
+      MidBuildings_132: 7330288691815661355
+      MidBuildings_133: -7629818090008833447
+      MidBuildings_134: -7259422579902304199
+      MidBuildings_135: 5512976077025469332
+      MidBuildings_136: 1302100594009885295
+      MidBuildings_137: -5861103610751610264
+      MidBuildings_138: 2235170456274908400
+      MidBuildings_139: -5248849637893897965
+      MidBuildings_14: -4662764013541536177
+      MidBuildings_140: -3357878823934696433
+      MidBuildings_141: -4190866766335611712
+      MidBuildings_142: 1585690757642860273
+      MidBuildings_143: -5331513047132560406
+      MidBuildings_144: -8159111691451770618
+      MidBuildings_145: 4563000691390728693
+      MidBuildings_146: 3460174706188006944
+      MidBuildings_147: -2381510628344150843
+      MidBuildings_148: 1021119764918321726
+      MidBuildings_149: -979146749091641164
+      MidBuildings_15: 5025161438767865733
+      MidBuildings_150: 4959826176282945258
+      MidBuildings_151: -2673357739371149095
+      MidBuildings_152: 7343010996215486440
+      MidBuildings_153: 2839290210324688344
+      MidBuildings_154: -1392675286295004043
+      MidBuildings_155: -6376845366086856148
+      MidBuildings_156: 7533362248984601951
+      MidBuildings_157: -5914862784604599992
+      MidBuildings_158: -6127822455120872434
+      MidBuildings_159: -2958712240566152416
+      MidBuildings_16: 6454582224968474097
+      MidBuildings_160: 7435056227466571059
+      MidBuildings_161: 7611905275601912831
+      MidBuildings_162: -1621441662928955870
+      MidBuildings_163: 557613857769534609
+      MidBuildings_164: -5187383596354516983
+      MidBuildings_165: -1916343982998076299
+      MidBuildings_166: -3284408026173601725
+      MidBuildings_167: -7882147559373419698
+      MidBuildings_168: -4264397876181868457
+      MidBuildings_169: 9084706386780582117
+      MidBuildings_17: 8097495256802967849
+      MidBuildings_170: -7007015625418996034
+      MidBuildings_171: -5528803588435475647
+      MidBuildings_172: 5022098698128065405
+      MidBuildings_173: 2188535457919074883
+      MidBuildings_174: -6000995755504003593
+      MidBuildings_175: 7466931664973090838
+      MidBuildings_176: 1780975300997530612
+      MidBuildings_177: 8771264077109562122
+      MidBuildings_178: 4654084731315298179
+      MidBuildings_179: 1287215350725010826
+      MidBuildings_18: 3666292894537793970
+      MidBuildings_19: -5511974015822140368
+      MidBuildings_2: -7349495680187835438
+      MidBuildings_20: -470477765153928362
+      MidBuildings_21: -9207551044605434390
+      MidBuildings_22: 8896764608723474570
+      MidBuildings_23: -5802027451681002977
+      MidBuildings_24: 6490915104535158084
+      MidBuildings_25: -5177687309391898540
+      MidBuildings_26: -3077775556385575880
+      MidBuildings_27: -2137986292208072271
+      MidBuildings_28: 152063399573971995
+      MidBuildings_29: 6019280761704019163
+      MidBuildings_3: -901801916485884349
+      MidBuildings_30: -2510230612372730438
+      MidBuildings_31: 3910383387811044148
+      MidBuildings_32: -3415871445686155001
+      MidBuildings_33: 1138055991584400761
+      MidBuildings_34: -2870768548879742586
+      MidBuildings_35: 4064114830173668498
+      MidBuildings_36: -3656411192452691651
+      MidBuildings_37: 8443482713505747028
+      MidBuildings_38: 4106678766221121257
+      MidBuildings_39: -1758627969997582845
+      MidBuildings_4: 8230187941814400041
+      MidBuildings_40: -4841763444939774996
+      MidBuildings_41: 7080771689829988839
+      MidBuildings_42: 1734138751094752074
+      MidBuildings_43: 8085850182155332827
+      MidBuildings_44: 3595060002143592937
+      MidBuildings_45: -6833441624536582559
+      MidBuildings_46: 6944361951615110073
+      MidBuildings_47: 3429334580718994949
+      MidBuildings_48: 7484225480299411523
+      MidBuildings_49: 6383872297462419056
+      MidBuildings_5: 3586459395586041600
+      MidBuildings_50: -2459106002405816551
+      MidBuildings_51: 4594322102700638221
+      MidBuildings_52: -7339804438989288242
+      MidBuildings_53: -2962390378522206854
+      MidBuildings_54: -8902670533409731855
+      MidBuildings_55: -814070057255894035
+      MidBuildings_56: -4960196849115372385
+      MidBuildings_57: -3901630411900041844
+      MidBuildings_58: -901612376170426270
+      MidBuildings_59: -8100242583581154092
+      MidBuildings_6: 6788201291440171753
+      MidBuildings_60: -3165466216678462706
+      MidBuildings_61: 5271149443202014880
+      MidBuildings_62: -3445360130492676642
+      MidBuildings_63: -8596904659878527097
+      MidBuildings_64: -818720276650317098
+      MidBuildings_65: 7976989743717410264
+      MidBuildings_66: -6760201582684530630
+      MidBuildings_67: -1491421707372903270
+      MidBuildings_68: 4180354515358938730
+      MidBuildings_69: -4590861517103868378
+      MidBuildings_7: 4419903348613103609
+      MidBuildings_70: 7951293225582728341
+      MidBuildings_71: -6127782102799784970
+      MidBuildings_72: 309268342928826703
+      MidBuildings_73: 1361498481270814242
+      MidBuildings_74: 3764627411612412863
+      MidBuildings_75: -4329599500216017484
+      MidBuildings_76: -7935457939684808566
+      MidBuildings_77: 5391931546208516636
+      MidBuildings_78: 7491945683593022244
+      MidBuildings_79: 4206342427578205170
+      MidBuildings_8: 6562765284460611152
+      MidBuildings_80: 2859560396366589475
+      MidBuildings_81: 4813687102026929405
+      MidBuildings_82: 6534493708033027677
+      MidBuildings_83: -1545240221016786515
+      MidBuildings_84: -2218920040990425278
+      MidBuildings_85: 7758204998271586689
+      MidBuildings_86: 5364164778545725370
+      MidBuildings_87: 1284710723082472138
+      MidBuildings_88: -2984738641442415479
+      MidBuildings_89: 4275251003355727348
+      MidBuildings_9: 7574661530678657726
+      MidBuildings_90: 4494509492612105584
+      MidBuildings_91: 1965778219734480384
+      MidBuildings_92: 4999248573616455855
+      MidBuildings_93: -3306967950608993314
+      MidBuildings_94: -476355604451204546
+      MidBuildings_95: 7298202456838801331
+      MidBuildings_96: 490422177097567555
+      MidBuildings_97: -756095505951284009
+      MidBuildings_98: 1348281397672096852
+      MidBuildings_99: 882697988952975836
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

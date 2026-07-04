@@ -1,0 +1,910 @@
+fileFormatVersion: 2
+guid: 6d14d9eb4d1412c40a9aeea0c26f4a9f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3839825824608934149
+    second: Titus_0
+  - first:
+      213: -8920070567141144665
+    second: Titus_1
+  - first:
+      213: -4850654995775212224
+    second: Titus_2
+  - first:
+      213: -6349198580050933225
+    second: Titus_3
+  - first:
+      213: 4573684092508671598
+    second: Titus_4
+  - first:
+      213: -4581664785001108645
+    second: Titus_5
+  - first:
+      213: -7901707891675979277
+    second: Titus_6
+  - first:
+      213: 751378062506096016
+    second: Titus_7
+  - first:
+      213: 2465800301122027230
+    second: Titus_8
+  - first:
+      213: 5771355931386506401
+    second: Titus_9
+  - first:
+      213: -8352086520448455584
+    second: Titus_10
+  - first:
+      213: 8406491397041631311
+    second: Titus_11
+  - first:
+      213: -3908214397443718985
+    second: Titus_12
+  - first:
+      213: -5199218940684414508
+    second: Titus_13
+  - first:
+      213: 626736514466824491
+    second: Titus_14
+  - first:
+      213: 6700715394105995479
+    second: Titus_15
+  - first:
+      213: 3276043082317723155
+    second: Titus_16
+  - first:
+      213: 9198112772211433747
+    second: Titus_17
+  - first:
+      213: 5572141487733603116
+    second: Titus_18
+  - first:
+      213: 4350540982489611986
+    second: Titus_19
+  - first:
+      213: 5982205328755765680
+    second: Titus_20
+  - first:
+      213: 5087442439928602173
+    second: Titus_21
+  - first:
+      213: 5468524858224372284
+    second: Titus_22
+  - first:
+      213: -6199292666378958638
+    second: Titus_23
+  - first:
+      213: -7947525773416253557
+    second: Titus_24
+  - first:
+      213: 284053234875575027
+    second: Titus_25
+  - first:
+      213: -2944708444996944683
+    second: Titus_26
+  - first:
+      213: -2943774833789644021
+    second: Titus_27
+  - first:
+      213: 5166990689958238621
+    second: Titus_28
+  - first:
+      213: -6019251456749872810
+    second: Titus_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: 29
+    textureCompression: 1
+    compressionQuality: 75
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Titus_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 734
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf620dcb1c236bac0800000000000000
+      internalID: -3839825824608934149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Titus_1
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1040
+        width: 52
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a7822a641b853480800000000000000
+      internalID: -8920070567141144665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Titus_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1001
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04538d03bf20facb0800000000000000
+      internalID: -4850654995775212224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Titus_3
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 973
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a46abe78d13e7a0800000000000000
+      internalID: -6349198580050933225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Titus_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 966
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e85d0237df87f30800000000000000
+      internalID: 4573684092508671598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Titus_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 957
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ba71a1728aa60c0800000000000000
+      internalID: -4581664785001108645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Titus_6
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 968
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1a0cd998e775290800000000000000
+      internalID: -7901707891675979277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Titus_7
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 958
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09572bbed5e6d6a00800000000000000
+      internalID: 751378062506096016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Titus_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 947
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edefd6b3f48483220800000000000000
+      internalID: 2465800301122027230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Titus_9
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 939
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ace2a244a9f71050800000000000000
+      internalID: 5771355931386506401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Titus_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 833
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c67579f8d671c80800000000000000
+      internalID: -8352086520448455584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Titus_11
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 826
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f403b08d26bd9a470800000000000000
+      internalID: 8406491397041631311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Titus_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 760
+        width: 40
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b0cc4e46bb33c9c0800000000000000
+      internalID: -3908214397443718985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Titus_13
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 787
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1d50b8be9a8d7b0800000000000000
+      internalID: -5199218940684414508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Titus_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 754
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b21cf801a8d92b800800000000000000
+      internalID: 626736514466824491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Titus_15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 734
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d0fda62629bdfc50800000000000000
+      internalID: 6700715394105995479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Titus_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 699
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3167c6e73d7d67d20800000000000000
+      internalID: 3276043082317723155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Titus_17
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 706
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31165a725d246af70800000000000000
+      internalID: 9198112772211433747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Titus_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 683
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2bf39e1929345d40800000000000000
+      internalID: 5572141487733603116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Titus_19
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 681
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de721239f9306c30800000000000000
+      internalID: 4350540982489611986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Titus_20
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 609
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b1bfe92d00150350800000000000000
+      internalID: 5982205328755765680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Titus_21
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 503
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ed037d1f93a9640800000000000000
+      internalID: 5087442439928602173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Titus_22
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 414
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a6bd3926a14eb40800000000000000
+      internalID: 5468524858224372284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Titus_23
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 409
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d84cc94a20b7f9a0800000000000000
+      internalID: -6199292666378958638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Titus_24
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 404
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b873348ba67b4b190800000000000000
+      internalID: -7947525773416253557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Titus_25
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 243
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa2f0289e821f300800000000000000
+      internalID: 284053234875575027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Titus_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 82
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc3dd0654b4227d0800000000000000
+      internalID: -2944708444996944683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Titus_27
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 88
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b03db3da26c9527d0800000000000000
+      internalID: -2943774833789644021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Titus_28
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 88
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9916b818a6d4b740800000000000000
+      internalID: 5166990689958238621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Titus_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 73
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659dba201b2577ca0800000000000000
+      internalID: -6019251456749872810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Titus_0: -3839825824608934149
+      Titus_1: -8920070567141144665
+      Titus_10: -8352086520448455584
+      Titus_11: 8406491397041631311
+      Titus_12: -3908214397443718985
+      Titus_13: -5199218940684414508
+      Titus_14: 626736514466824491
+      Titus_15: 6700715394105995479
+      Titus_16: 3276043082317723155
+      Titus_17: 9198112772211433747
+      Titus_18: 5572141487733603116
+      Titus_19: 4350540982489611986
+      Titus_2: -4850654995775212224
+      Titus_20: 5982205328755765680
+      Titus_21: 5087442439928602173
+      Titus_22: 5468524858224372284
+      Titus_23: -6199292666378958638
+      Titus_24: -7947525773416253557
+      Titus_25: 284053234875575027
+      Titus_26: -2944708444996944683
+      Titus_27: -2943774833789644021
+      Titus_28: 5166990689958238621
+      Titus_29: -6019251456749872810
+      Titus_3: -6349198580050933225
+      Titus_4: 4573684092508671598
+      Titus_5: -4581664785001108645
+      Titus_6: -7901707891675979277
+      Titus_7: 751378062506096016
+      Titus_8: 2465800301122027230
+      Titus_9: 5771355931386506401
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
