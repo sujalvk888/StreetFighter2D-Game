@@ -5,7 +5,7 @@ Welcome to the official source code repository for **Street Fighter 2D**, a high
 ## 🎮 Play the Game Now!
 You can play the latest stable build directly in your web browser without downloading anything:
 
-👉 **[CLICK HERE TO PLAY STREET FIGHTER 2D ON ITCH.IO]([https://sujalvk888.itch.io/street-fighter-2d](https://sujalvk.itch.io/street-fighter-2d))** 🕹️
+👉 **[CLICK HERE TO PLAY STREET FIGHTER 2D ON ITCH.IO](https://sujalvk.itch.io/street-fighter-2d)** 🕹️
 
 ---
 
