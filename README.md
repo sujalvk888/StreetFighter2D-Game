@@ -355,22 +355,14 @@ Recommended screenshots to include:
 
 ---
 
-## 🎥 Demo GIFs
+## 🎬 Live Demo
 
-> **Demo recordings will be added soon.**
+<p align="center">
+  <img src="./assets/gifs/demo.gif"
+       alt="Street Fighter 2D demonstrating arcade-style combat, character selection, AI opponents, smooth fighting animations, and WebGL gameplay."
+       width="100%">
+</p>
 
-Suggested demonstrations:
-
-- Character selection
-- Arcade match start
-- Basic movement and jumping
-- Blocking and attacking
-- AI opponent behavior
-- Combo hits
-- Practice mode training
-- Stage variety
-- Round transitions
-- Full match flow
 
 ---
 
