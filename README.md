@@ -346,7 +346,6 @@ StreetFighter2D-Game/
 ---
 
 
-
 ## 📸 Screenshots
 
 ### 🎮 Main Menu
@@ -367,13 +366,9 @@ StreetFighter2D-Game/
 
 ### 🥊 Gameplay
 
-| Ancient Temple Battle | Metro City Battle |
-|-----------------------|-------------------|
-| ![Temple Stage](./assets/screenshots/gameplay-temple.png) | ![Metro Stage](./assets/screenshots/gameplay-metro.png) |
-
-| Cyberpunk Rooftop Battle | Dragon Fortress Battle |
-|--------------------------|-------------------------|
-| ![Cyberpunk Stage](./assets/screenshots/gameplay-cyberpunk.png) | ![Dragon Fortress Stage](./assets/screenshots/gameplay-fortress.png) |
+| Metro City Stage | Cyberpunk Rooftop Stage | Dragon Fortress Stage |
+|------------------|-------------------------|-----------------------|
+| ![Metro Stage](./assets/screenshots/gameplay-metro.png) | ![Cyberpunk Stage](./assets/screenshots/gameplay-cyberpunk.png) | ![Dragon Fortress Stage](./assets/screenshots/gameplay-fortress.png) |
 
 ---
 
