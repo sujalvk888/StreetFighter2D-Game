@@ -334,27 +334,6 @@ StreetFighter2D-Game/
 └── README.md
 ```
 
----
-
-# 📸 Screenshots
-
-> **Screenshots will be added soon.**
-
-Recommended screenshots to include:
-
-- 🕹️ Main Menu
-- 👊 Character Select
-- 🥊 Arcade Battle
-- 🤜🤛 Versus Mode
-- 🧪 Practice Mode
-- 🏟️ Temple Stage
-- 🌆 Cyberpunk Rooftop Stage
-- 🚇 Namma Metro Stage
-- 🩸 Combat HUD
-- 🎮 Victory / Defeat Screen
-
----
-
 ## 🎬 Live Demo
 
 <p align="center">
@@ -363,6 +342,38 @@ Recommended screenshots to include:
        width="100%">
 </p>
 
+
+---
+
+
+
+## 📸 Screenshots
+
+### 🎮 Main Menu
+
+| Home Screen |
+|------------|
+| ![Main Menu](./assets/screenshots/main-menu.png) |
+
+---
+
+### ⚔️ Character Selection
+
+| Character Select |
+|-----------------|
+| ![Character Selection](./assets/screenshots/character-select.png) |
+
+---
+
+### 🥊 Gameplay
+
+| Ancient Temple Battle | Metro City Battle |
+|-----------------------|-------------------|
+| ![Temple Stage](./assets/screenshots/gameplay-temple.png) | ![Metro Stage](./assets/screenshots/gameplay-metro.png) |
+
+| Cyberpunk Rooftop Battle | Dragon Fortress Battle |
+|--------------------------|-------------------------|
+| ![Cyberpunk Stage](./assets/screenshots/gameplay-cyberpunk.png) | ![Dragon Fortress Stage](./assets/screenshots/gameplay-fortress.png) |
 
 ---
 
